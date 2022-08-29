@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://github.com/Luc4s-me](https://cdn.discordapp.com/attachments/989905869946892347/1013643154936836196/lucas.png)
+![https://github.com/Luc4s-me](https://cdn.discordapp.com/attachments/989905869946892347/1013644986618761236/lucas.png)
 
 <!--
 **Luc4s-me/Luc4s-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
