@@ -5,7 +5,7 @@ Soy desarollador de bots de discord, y diseñador/configurador de servers de dis
 
 También soy programador de JavaScript, Node.js, HTML, Css y SQL/MySQL.
 
-[![Web](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[Web](https://luc4s.me)
 <!--
 **Luc4s-me/Luc4s-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
