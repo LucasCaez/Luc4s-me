@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://media.discordapp.net/attachments/989905869946892347/1013643154936836196/lucas.png?width=1025&height=328
 
 <!--
 **Luc4s-me/Luc4s-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
