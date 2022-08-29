@@ -1,4 +1,5 @@
-### 👋 Hola, Soy Luc4s
+# Hola, mi nombre es Luc4s
+### Discord developer
 ![https://github.com/Luc4s-me](https://cdn.discordapp.com/attachments/989905869946892347/1013644986618761236/lucas.png)
 
 <!--
