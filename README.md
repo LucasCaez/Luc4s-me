@@ -1,5 +1,5 @@
 # Hola, mi nombre es Luc4s
-![https://github.com/Luc4s-me](https://cdn.discordapp.com/attachments/989905869946892347/1013644986618761236/lucas.png)
+![https://github.com/Luc4s-me](https://cdn.discordapp.com/attachments/989905869946892347/1070720850338250813/luc4sdev.png)
 
 Soy desarollador de bots de discord, y diseñador/configurador de servers de discord.
 
